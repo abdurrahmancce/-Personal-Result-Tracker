@@ -172,8 +172,3 @@ If you like this project:
 * 🛠️ Contribute improvements
 
 ---
-
-# 📌 Short Description
-
-A responsive and interactive web-based Personal Result Tracker that allows students to manage academic results, calculate GPA/CGPA automatically, and store records locally using JavaScript Local Storage.
-
